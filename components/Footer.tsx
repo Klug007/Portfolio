@@ -25,7 +25,7 @@ function Footer() {
         </p>
         <a href="mailto:tilla.yosinbek@gmail.com">
           <MagicButton
-            title="Let's get in touch"
+            title="Связатьс со мной"
             icon={<FaLocationArrow />}
             position="right"
           />
