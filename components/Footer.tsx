@@ -16,12 +16,12 @@ function Footer() {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level?
+          Готовы вывести <span className="text-purple">ваше</span> цифровое
+          присутствие на новый уровень?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me Today and let&#39;s discuss how I can help you achieve
-          your goals.
+          Свяжитесь со мной сегодня, и давайте обсудим, как я могу помочь вам
+          достичь ваших целей.
         </p>
         <a href="mailto:tilla.yosinbek@gmail.com">
           <MagicButton

@@ -8,13 +8,13 @@ const Approach = () => {
   return (
     <section className="w-full py-20" id="approach">
       <h1 className="heading">
-        My <span className="text-purple">Approach</span>
+        Мой <span className="text-purple">подход</span>
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
-          title="Sheetal is Nisha"
-          icon={<AceternityIcon order="Phase 1" />}
-          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          title="Планирование и Стратегия"
+          icon={<AceternityIcon order="Фаза 1" />}
+          description="Мы будем сотрудничать, чтобы определить цели вашего сайта, целевую аудиторию и ключевые функции. Мы обсудим такие вещи, как структура сайта, навигация и требования к содержанию."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -22,9 +22,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
-          icon={<AceternityIcon order="Phase 2" />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way."
+          title="Разработка и обновление прогресса"
+          icon={<AceternityIcon order="Фаза 2" />}
+          description="Как только мы согласуем план, я включаю свой плейлист с лоуфай музыкой и приступаю к кодированию. От начальных эскизов до готового кода я буду держать вас в курсе на каждом этапе."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -37,9 +37,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Launch"
-          icon={<AceternityIcon order="Phase 3" />}
-          description="This is where the magic happens! Based on the approved design, I'll translate everything into functional code, building your website from the ground up."
+          title="Разработка и запуск"
+          icon={<AceternityIcon order="Фаза 3" />}
+          description="Здесь происходит магия! На основе утверждённого дизайна я переведу всё в функциональный код, создавая ваш сайт с нуля."
         >
           <CanvasRevealEffect
             animationSpeed={3}
