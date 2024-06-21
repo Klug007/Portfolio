@@ -28,7 +28,7 @@ const Hero = () => {
             Магия динамических веб-приложений с Next.js
           </h2>
           <TextGenerateEffect
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
+            className="text-center text-[36px] md:text-4xl lg:text-5xl"
             words="Преобразование концепций в идеальные пользовательские интерфейсы"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
