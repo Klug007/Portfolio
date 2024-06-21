@@ -32,7 +32,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Yosinbek, a React.js Developer based in Uzbekistan
+            Hi, I&#39;m Yosinbek, a React.js Developer based in Uzbekistan
           </p>
 
           <a href="#about">

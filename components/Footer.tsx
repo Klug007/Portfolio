@@ -20,7 +20,7 @@ function Footer() {
           presence to the next level?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me Today and let's discuss how I can help you achieve
+          Reach out to me Today and let&#39;s discuss how I can help you achieve
           your goals.
         </p>
         <a href="mailto:tilla.yosinbek@gmail.com">
