@@ -28,6 +28,7 @@ function Footer() {
             title="Связатьс со мной"
             icon={<FaLocationArrow />}
             position="right"
+            otherClasses="whitespace-nowrap"
           />
         </a>
       </div>
