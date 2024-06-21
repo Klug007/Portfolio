@@ -22,13 +22,13 @@ const Hero = () => {
         <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black-100 bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
       </div>
 
-      <div className="flex justify-center relative my-20 z-10">
+      <div className="flex justify-center relative my-10 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
-          <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-96 whitespace-nowrap">
+          <h2 className="uppercase tracking-widest lg:text-xs md:text-xs text-[14px] text-center text-blue-100 max-w-[26rem]">
             Магия динамических веб-приложений с Next.js
           </h2>
           <TextGenerateEffect
-            className="text-center text-[36px] md:text-4xl lg:text-5xl"
+            className="text-center text-[32px] mb-4 md:text-3xl lg:text-4xl"
             words="Преобразование концепций в идеальные пользовательские интерфейсы"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">

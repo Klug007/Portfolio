@@ -151,8 +151,8 @@ export const BentoGridItem = ({
               <MagicButton
                 title={
                   copied
-                    ? "Электронная почта скопирована"
-                    : "Скопируйте мою электронную почту"
+                    ? "Email скопирована"
+                    : "Скопируйте мой email"
                 }
                 icon={<IoCopyOutline />}
                 position="left"
